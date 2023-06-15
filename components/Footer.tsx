@@ -10,7 +10,7 @@ export default function Footer() {
           href="https://openai.com/"
           target="_blank"
           rel="noreferrer"
-          className="font-bold hover:underline transition underline-offset-2"
+          className="font-bold transition text-transparent bg-clip-text bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500"
         >
           OpenAI{" "}
         </Link>
