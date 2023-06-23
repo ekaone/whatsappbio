@@ -10,7 +10,7 @@
 
 ## Installation
 
-Creta a `.env.local` file and add your [OpenAI API key](https://beta.openai.com/docs/developer-quickstart/your-api-keys) to it.
+Get your OpenAI [API key](https://platform.openai.com/account/api-keys), and create a .env.local file and paste your API Key
 
 ```sh
 git clone https://github.com/ekaone/whatsappbio.git
